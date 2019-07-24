@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi Chauncey,
+
+The quick brown fox jumps over the lazy dog.
+This is a sample text, my first Github file.
